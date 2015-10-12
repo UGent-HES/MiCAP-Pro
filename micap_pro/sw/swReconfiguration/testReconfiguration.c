@@ -78,7 +78,7 @@ All rights reserved.
 #include "xil_io.h"
 
 #include "xparameters.h"	/* XPAR parameters */
-#include "micap.h"			/* MiCAP device driver */
+#include "micap_pro.h"		/* MiCAP-Pro device driver */
 #include "xscugic.h"        /* Interrupts driver */
 #include "xdevcfg.h"
 #include "xdevcfg_hw.h"
