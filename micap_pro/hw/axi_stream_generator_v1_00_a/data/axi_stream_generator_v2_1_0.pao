@@ -1,0 +1,11 @@
+##############################################################################
+## Filename:          /home/akulkarn/private/Desktop/git_genki/tlut_flow/examples/dma_gpio_micap/pcores/axi_stream_generator_v1_00_a/data/axi_stream_generator_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Wed Sep 16 11:19:04 2015 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib axi_stream_generator_v1_00_a axi_stream_generator vhdl
+#lib axi_stream_generator_v1_00_a in_out_buffer vhdl
+lib axi_stream_generator_v1_00_a icap_controller verilog
+lib axi_stream_generator_v1_00_a config_buffer.v verilog
+lib axi_stream_generator_v1_00_a config_buffer_ord.v verilog

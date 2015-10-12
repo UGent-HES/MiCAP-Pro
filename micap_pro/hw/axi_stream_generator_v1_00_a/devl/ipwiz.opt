@@ -1,0 +1,10 @@
+-batch 
+-create axi_stream_generator 
+-ver 1.00.a 
+-dir /home/akulkarn/private/Desktop/git_genki/tlut_flow/examples/dma_gpio_micap/ 
+-lang vhdl 
+-bus axi4stream ms 
+-xps 
+-totalin 8
+-totalout 8
+-driver 
