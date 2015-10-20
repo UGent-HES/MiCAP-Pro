@@ -41,4 +41,4 @@ In no event shall UGent be liable for (a) any incidental, consequential, or indi
 
 ##Installation and usage manual
 
-For installation instructions, please read documentation/micap_user_guide.pdf
+For installation instructions, please read documentation/user_guide_micap_pro.pdf
