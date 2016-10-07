@@ -46,5 +46,5 @@ For installation instructions, please read documentation/user_guide_micap_pro.pd
 ## Citation
 To cite this work please use the following paper:
 
-A. Kulkarni, V. Kizheppatt, and D. Stroobandt,
-"MiCAP: A custom Reconfiguration Controller for Dynamic Circuit Specialization," in ReConFigurable Computing and FPGAs (ReConFig), 2015 International Conference on, Cancun, Mexico, 2015.
+A. Kulkarni and D. Stroobandt,
+"MiCAP - Pro: a high speed custom reconfiguration controller for Dynamic Circuit Specialization," Design Automation for Embedded Systems, doi:10.1007/s10617-016-9180-6
